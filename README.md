@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanDev19
-- 👀 I’m interested in full-stack programming.
+- 👀 I’m interested in full-stack programming and cibersecurity.
 - 🌱 I’m currently learning full-stack.
-- 📫 How to reach me... Twitter: @pekjzzcs
+- 📫 How to reach me... Twitter: @IvanDev19
 
 <!---
 IvanDev19/IvanDev19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
