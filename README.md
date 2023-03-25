@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanDev19
 - 👀 I’m interested in learn programming.
-- 🌱 I’m currently learning Coding and programming.
+- 🌱 I’m currently learning Coding and programming from IBM SkillsBuild.
 - 📫 How to reach me... Twitter: @IvanDev19
 
 <!---
