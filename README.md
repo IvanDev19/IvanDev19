@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanDev19
-- 👀 I’m interested in full-stack programming and cibersecurity.
-- 🌱 I’m currently learning full-stack.
+- 👀 I’m interested in learn programming.
+- 🌱 I’m currently learning Coding and programming.
 - 📫 How to reach me... Twitter: @IvanDev19
 
 <!---
